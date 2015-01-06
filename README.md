@@ -1,3 +1,17 @@
+## Modifications by Andreas von Ballmoos ##
+
+The repository contains 8 relevant files:
+- plot1.R, plot2.R, plot3.R, plot4.R are the R scripts to generate the image files
+- plot1.png, plot2.png, plot3.png, plot4.png are the generated images sized 480x480 pixels
+
+To run the R files:
+- place the source data file (household_power_consumption.txt) one directory level above the R scripts
+- set the working directory to where the R script is saved
+- source the R script file
+- you will see a message "successfully completed" when the script has ended
+
+
+--------------------- original content of Roger Peng starts here ----------------
 ## Introduction
 
 This assignment uses data from
